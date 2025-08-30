@@ -9,11 +9,11 @@
 ![license](https://img.shields.io/badge/License-Apache--2.0-blue.svg)
 
 ---
-<div style="font-size:18px; margin-bottom:10px;">
+<!-- <div style="font-size:18px; margin-bottom:10px;">
   <a href="https://huggingface.co/datasets/CUFEInse/CUFEInse" target="_blank" style="text-decoration:none; color:#1a73e8;">
     🤗 HuggingFace CUFEInse
   </a>
-</div>
+</div> -->
 
 <!-- 子链接 -->
 <div style="font-size:22px;">
