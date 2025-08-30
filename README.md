@@ -9,6 +9,8 @@
 ![license](https://img.shields.io/badge/License-Apache--2.0-blue.svg)
 
 ---
+[🤗 HuggingFace CUFEInse](https://huggingface.co/datasets/CUFEInse/CUFEInse)
+
 [🧾 CUFEInse v1.0](docs/README_zh_CN.md) | [📊 CUFEInse v1.0 测评报告](docs/reportv1.md)
 </div>
 
