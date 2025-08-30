@@ -9,9 +9,21 @@
 ![license](https://img.shields.io/badge/License-Apache--2.0-blue.svg)
 
 ---
-[🤗 HuggingFace CUFEInse](https://huggingface.co/datasets/CUFEInse/CUFEInse)
+<div style="font-size:18px; margin-bottom:10px;">
+  <a href="https://huggingface.co/datasets/CUFEInse/CUFEInse" target="_blank" style="text-decoration:none; color:#1a73e8;">
+    🤗 HuggingFace CUFEInse
+  </a>
+</div>
 
-[🧾 CUFEInse v1.0](docs/README_zh_CN.md) | [📊 CUFEInse v1.0 测评报告](docs/reportv1.md)
+<!-- 子链接 -->
+<div style="font-size:22px;">
+  <a href="docs/README_zh_CN.md" target="_blank" style="text-decoration:none; color:#1a73e8;">
+    🧾 CUFEInse v1.0
+  </a> |
+  <a href="docs/reportv1.md" target="_blank" style="text-decoration:none; color:#1a73e8;">
+    📊 CUFEInse v1.0 测评报告
+  </a>
+</div>
 </div>
 
 ---
@@ -68,7 +80,6 @@ v1.0 版本共收录 14,430  道高质量题目，题型涵盖单项选择、多
 3. 强调逻辑严谨性与安全合规：特别增设了“逻辑严谨性”与“合规与安全”维度，重点关注模型在保险场景下的推理链条完整性、输出稳定性、真实性（避免幻觉）以及对保险监管政策、职业道德、伦理底线的遵循能力，这与保险行业严监管和风险敏感的特性高度契合。
 4. 涵盖保险精算与专业认证考试内容：确保精算数学公式、符号表达、计算过程的准确性与专业性，解决大模型在处理复杂精算计算时可能出现的格式混乱和语义理解偏差问题，同时对高标准、规范化考试的模拟，有效评估模型是否具备相当于保险专业人才的专业知识水平，这一技术性创新提升了对模型处理专业数理金融内容能力的评估精度。
 5. 模型架构适配性与计算效率优化：我们针对不同模型架构的特点，设计了多尺度评估方案，既能全面评估超大参数模型的专业能力，也充分考虑轻量化模型在保险实际业务场景中的部署需求。评测框架支持计算效率评估，关注模型在保险典型业务场景中的响应速度和资源消耗，为产业界选型提供实用参考。
-
 
 ---
 
