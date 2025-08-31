@@ -19,7 +19,7 @@
 <div style="font-size:22px;">
   <a href="docs/README_zh_CN.md" target="_blank" style="text-decoration:none; color:#1a73e8;">
     🧾 测评集 CUFEInse v1.0
-  </a> |
+  </a> |   
   <a href="docs/reportv1.md" target="_blank" style="text-decoration:none; color:#1a73e8;">
     📊 CUFEInse v1.0 测评报告
   </a>
