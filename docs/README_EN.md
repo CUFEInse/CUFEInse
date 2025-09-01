@@ -1,5 +1,3 @@
-# CUFEInse
-
 <div align="center">
 <img src="logo2.png" alt="CUFEInse Logo" width=auto height="100" style="max-width: 100%; height: 80;">
 <h1 style="font-size: 48px; color: #2c3e50; margin: 20px 0; font-weight: bold;">CUFEInse</h1>
