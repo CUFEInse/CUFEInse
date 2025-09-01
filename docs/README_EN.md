@@ -8,7 +8,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![license](https://img.shields.io/badge/License-Apache--2.0-blue.svg)
 
-[CUFEInse v1.0 evaulation report](report_v1_en.md)
+[CUFEInse v1.0 evaulation report](report_v1_EN.md)
 
 </div>
 

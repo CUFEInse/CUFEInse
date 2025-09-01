@@ -9,7 +9,7 @@
 ![license](https://img.shields.io/badge/License-Apache--2.0-blue.svg)
 
 ---
-[简体中文](./README.md) | [English](./docs/README_en.md) 
+[简体中文](./README.md) | [English](./docs/README_EN.md) 
 
 [CUFEInse v1.0](docs/README_zh_CN.md) | [CUFEInse v1.0 测评报告](docs/report_v1_zh_CN.md)
 </div>
