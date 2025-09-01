@@ -9,14 +9,9 @@
 ![license](https://img.shields.io/badge/License-Apache--2.0-blue.svg)
 
 ---
-<!-- <div style="font-size:18px; margin-bottom:10px;">
-  <a href="https://huggingface.co/datasets/CUFEInse/CUFEInse" target="_blank" style="text-decoration:none; color:#1a73e8;">
-    🤗 HuggingFace CUFEInse
-  </a>
-</div> -->
+[简体中文](./README.md) | [English](docs/README_en.md) 
 
-<!-- 子链接 -->
-[CUFEInse v1.0](docs/README_zh_CN.md) | [CUFEInse v1.0 测评报告](docs/reportv1.md)
+[CUFEInse v1.0](docs/README_zh_CN.md) | [CUFEInse v1.0 测评报告](docs/report_v1_zh_CN.md)
 </div>
 
 ---
@@ -111,7 +106,7 @@ v1.0 版本共收录 14,430  道高质量题目，题型涵盖单项选择、多
 ```
 
 ## 测评报告
-详细测评报告请点击[CUFEInse v1.0 测评报告](./docs/reportv1.md)
+详细测评报告请点击[CUFEInse v1.0 测评报告](./docs/report_v1_zh_CN.md)
 ### 综合排名与分析
 基于综合得分，我们将参评模型分为三个梯队：
 
