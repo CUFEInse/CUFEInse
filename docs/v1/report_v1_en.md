@@ -50,7 +50,7 @@ Final scores are standardized on a 100-point scale.
 ## 2.1 Theoretical Knowledge: Clear Stratification of Professional Depth; Reasoning Models Stand Out
 The insurance theoretical knowledge dimension covers 14 fine-grained indicators across Insurance Studies, Insurance Products, Insurance Markets and Operations, Insurance Law, etc., to comprehensively assess a model’s mastery of foundational and professional knowledge in insurance.
 
-<img src="./images/v1/EN/02_Insurance_Theory_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="../images/v1/EN/02_Insurance_Theory_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 
 Key findings:
@@ -62,7 +62,7 @@ Key findings:
 ## 2.2 Industry Understanding: Domain Models Lead; Scenario Adaptation Is Key
 The industry understanding dimension spans 18 business-scenario indicators, including target customer identification, coverage/liability analysis, underwriting & claims-related tasks, and medical terminology normalization (e.g., disease and procedure standardization), to evaluate a model’s grasp of practical business scenarios and process application capabilities.
 
-<img src="./images/v1/EN/03_Insurance_Industry_Understanding_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="../images/v1/EN/03_Insurance_Industry_Understanding_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 Key findings:
 1. Domain models lead across the board: AntGroup Finix-S1 tops this dimension with 92.47, ranking first in 13 of the 18 subcategories—particularly in insured-object slot identification (94.74), claims-related tasks (94.67), and post-issue servicing (97.92). It demonstrates end‑to‑end adaptability across the insurance value chain (purchase → underwriting → claims → post‑issue).
@@ -72,7 +72,7 @@ Key findings:
 ## 2.3 Safety & Compliance: Overall Balanced; Marketing Copy Compliance Remains a Pain Point
 The safety & compliance dimension includes five indicators—Insurance Technology & Ethics, Compliance of Insurance Marketing Copy, Safety Boundaries, Insurance Values, and Copy Compliance—to examine regulatory compliance, ethical boundary control, and risk avoidance in insurance services.
 
-<img src="./images/v1/EN/05_Insurance_Security_Compliance_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="../images/v1/EN/05_Insurance_Security_Compliance_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 Key findings:
 1. Compliance advantage of high-quality domain models: AntGroup Finix-S1 leads with 86.78, including strong performance on Safety Boundaries (92.67) and Insurance Copy Compliance (83.18), indicating that both copy compliance and value orientation align with regulatory expectations.
@@ -82,7 +82,7 @@ Key findings:
 ## 2.4 Agentic Applications: Layered Agent Capabilities; Decision-Making & Tool Use Vary Widely
 This dimension covers 13 indicators including service summarization, product selection analysis, underwriting/claims decision-making reasoning, and product comparison, to evaluate practical agentic abilities such as intent understanding, decision-making reasoning, and tool invocation.
 
-<img src="./images/v1/EN/04_Insurance_Agent_Applications_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="../images/v1/EN/04_Insurance_Agent_Applications_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 Key findings:
 1. Layered agentic service capabilities: AntGroup Finix-S1 ranks first with 86.86, scoring highly on intent understanding (91.67), product type comparison (97.08), and product recommendation (95.35). It exhibits end‑to‑end intelligent service capabilities—understanding needs → analyzing products → recommending decisions → invoking tools.
@@ -91,7 +91,7 @@ Key findings:
 
 ## 2.5 Logical Rigor: Numerical Computation and Clause Interpretation as Main Gaps
 The logical rigor dimension includes five indicators—problem identification, insurance return rate calculation, policy clause interpretation, financial numerical computation, etc.—to examine logical analysis, numerical computation, and precise interpretation of policy terms.
-<img src="./images/v1/EN/06_Insurance_Rigorous_Reasoning_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="../images/v1/EN/06_Insurance_Rigorous_Reasoning_Detailed_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 Key findings:
 1. Significant divergence in numerical computation: AntGroup Finix-S1 (96.15) leads in insurance return rate calculation (98.50) and rule information interpretation (95.86), achieving accurate calculations and nuanced understanding of exclusions and coverage scope in policy clauses, with low logical error rates.
@@ -124,7 +124,7 @@ Based on composite scores, the evaluated models fall into three tiers:
 | **gpt-oss-120b** | 79.41 | 🟡 75.47 | 🟡 78.16 | 🟡 70.82 | 🟡 79.14 | 🟢 93.46 |
 | **Fin-R1** | 71.46 | 🔴 66.77 | 🟡 74.76 | 🔴 67.09 | 🔴 66.52 | 🟠 82.16 |
 
-<img src="./images/v1/EN/01_Main_Dimensions_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="../images/v1/EN/01_Main_Dimensions_Comparison_Radar_EN.png" alt="主要维度对比雷达图" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## 3.2 Key Findings and Insights
 Distinct advantages of high-quality domain models: AntGroup Finix-S1 (Ant Insurance LLM) ranks first overall with 89.51, placing first in four of the five dimensions and third in insurance theoretical knowledge. This shows the positive impact of high-quality domain adaptation training for insurance LLMs.
