@@ -12,7 +12,7 @@
 
 **版本** v2.0 · **发布日期** 2026年3月
 
-**📖 文档** · [简体中文](./README.md) · [English](./README_EN.md)
+**📖 文档** · [简体中文](./README.md) · [English](./README_EN.md) · [v2.0 测评报告](./docs/v2/report_v2_zh_CN.md)
 
 **📜 历史版本** [v1.0 README](docs/v1/README.md) | [v1.0 文档](docs/v1/README_zh_CN.md) | [v1.0 测评报告](docs/v1/report_v1_zh_CN.md) 
 </div>
