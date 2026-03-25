@@ -32,7 +32,7 @@ CUFEInse v2.0 在 v1.0 基础上实现了四大核心维度的全面升级，进
 | 模型名称 | 组织 / 厂商 | 参数规模 | 模型类型 | 是否开源 | 推理能力 |
 |:--------|:--------|:--------|:--------|:--------:|:--------|
 | gemini-3.1-pro-preview | Google | 未公开 | 通用 | 否 | 支持 |
-| AntGroup Finix-S1 | Ant Group | 未公开 | 保险垂直 | 否 | 支持 |
+| AntGroup Finix-S1 | Ant Group | 未公开 | 垂直 | 否 | 支持 |
 | doubao-seed-2-0-lite-260215 | ByteDance | 未公开 | 通用 | 否 | 支持 |
 | qwen3.5-plus | Alibaba | 397B | 通用 | 是 | 支持 |
 | kimi-k2.5-nothinking | Moonshot AI | 未公开 | 通用 | 是 | 不支持 |
@@ -45,9 +45,9 @@ CUFEInse v2.0 在 v1.0 基础上实现了四大核心维度的全面升级，进
 | Qwen3-235B-A22B-think | Alibaba | 235B | 通用 | 是 | 支持 |
 | Qwen3-235B-A22B-instruct | Alibaba | 235B | 通用 | 是 | 不支持 |
 | gpt-5.4 | OpenAI | 未公开 | 通用 | 否 | 不支持 |
-| DianJin-R1 | DianJin | 32B | 金融垂直 | 是 | 未注明 |
+| DianJin-R1 | DianJin | 32B | 垂直 | 是 | 未注明 |
 | GPT-oss-120b | OpenAI | 120B | 通用 | 是 | 未注明 |
-| Fin-R1 | SUFE | 7B | 金融垂直 | 是 | 未注明 |
+| Fin-R1 | SUFE | 7B | 垂直 | 是 | 未注明 |
 
 ## 3.2 评测体系与评分规则
 本次评测延续 CUFEInse 基准的核心评估框架，围绕保险行业的核心需求，构建了 5 大一级维度、54 项二级细分指标的全维度评估体系，完整覆盖保险学科知识体系与业务全流程场景：
